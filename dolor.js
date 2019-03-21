@@ -1,0 +1,1 @@
+let dolor = require('dolor')
